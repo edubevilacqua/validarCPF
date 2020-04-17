@@ -1,0 +1,15 @@
+{
+  "name": "validcpf",
+  "version": "1.0.0",
+  "description": "Package to validate CPF(Cadastro de Pessoa Física)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Eduardo Bevilacqua",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
